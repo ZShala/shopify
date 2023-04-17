@@ -1,0 +1,30 @@
+.main-container{
+    width: 80%;
+    height: auto;
+    /* border: 1px solid green; */
+    display:flex;
+    justify-content: right;
+    position: absolute;
+    left: 10%;
+}
+
+.main-btn{
+    height: 50px;
+    width: 40%;
+    position: relative;
+    top: 100px;
+    border: 1px solid #5ce546;
+    border-radius: 25px;
+    background: transparent;
+    color: white;
+}
+.main-btn:hover{
+    background: #5ce546;
+    color: gray;
+    cursor: pointer;
+}
+
+.up-arrow{
+    color: #5ce546;
+    margin-left: 5px;
+}
