@@ -20,9 +20,9 @@ const MainSection = () => {
         </p>
         <a href="#" className="main-a">Explore docs &rarr;</a>
       </div>
-      <img src={MainImg} alt="" />
+      <img src={MainImg} alt="" className="main-img" />
       <div className="main-logos">
-          <img src={LogoImg} alt=""/>
+          <img src={LogoImg} alt="" className="logo-img"/>
       </div>
     </div>
   );
