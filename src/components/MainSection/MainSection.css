@@ -24,6 +24,8 @@
   border-radius: 25px;
   background: transparent;
   color: white;
+  display: flex;
+  align-items: center;
 }
 .main-btn:hover {
   background: #5ce546;

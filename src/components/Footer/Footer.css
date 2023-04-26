@@ -1,0 +1,20 @@
+.footer{
+    width: 100%;
+    height: 200px;
+    background-color: #141D1E;
+    position: relative;
+    top: 1200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-top{
+    width: 100%;
+    height: 80%;
+}
+
+.footer-bottom{
+    background-color: #20292b;
+    width: 100%;
+    height: 20%;
+}
